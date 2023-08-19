@@ -53,4 +53,8 @@ Deve haver uma camada de persistencia para os cubos cadastrados, usando o banco 
 
 ### Observacoes
 
-A applicacao deve ser enviada para o repositorio publico do github, ou outro repositorio de sua preferencia.
+A applicacao deve ser enviada para o repositorio publico do github, ou outro repositorio de sua preferencia
+
+### Resources : 
+
+https://docs.nestjs.com/graphql/quick-start
